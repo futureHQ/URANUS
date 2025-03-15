@@ -1,0 +1,1 @@
+"""Schema definitions for Uranus."""

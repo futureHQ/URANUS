@@ -1,0 +1,29 @@
+# Uranus Configuration Example
+
+[llm.default]
+model = "gpt-3.5-turbo"
+base_url = "https://api.openai.com/v1"
+api_key = "your-openai-api-key-here"
+max_tokens = 4096
+temperature = 0.7
+api_type = "openai"
+
+[llm.gpt4]
+model = "gpt-4"
+base_url = "https://api.openai.com/v1"
+api_key = "your-openai-api-key-here"
+max_tokens = 8192
+temperature = 0.5
+api_type = "openai"
+
+[agent]
+default_max_iterations = 15
+memory_max_messages = 100
+
+[tools]
+enabled = ["system_info", "web_search", "file_operations"]
+
+[logging]
+level = "INFO"
+file_path = "~/.uranus/logs/uranus.log"
+console = true
