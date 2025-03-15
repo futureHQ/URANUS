@@ -4,7 +4,7 @@ URANUS (Unified Reasoning, Adaptive Neural-linguistic Understanding System) is a
 
 Inspired by Manus.im, ANUS (Autonomous Networked Utility System) and OpenManus.
 
-WIP
+URANUS is under active development. Star it now ⭐ so you don’t miss the next big push! 🍑💨
 
 ## Features
 
