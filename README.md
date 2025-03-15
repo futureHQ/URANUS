@@ -1,4 +1,4 @@
-# URANUS (Unified Reasoning, Adaptive Neural-linguistic Understanding System)
+# 🍑🚀 URANUS (Unified Reasoning, Adaptive Neural-linguistic Understanding System)
 
 URANUS (Unified Reasoning, Adaptive Neural-linguistic Understanding System) is a next-generation AI agent that doesn’t just think—it delivers tangible, real-world results. By harnessing advanced reasoning and language capabilities, URANUS excels at a wide array of tasks in both work and personal life, freeing you to focus on what truly matters. From automating your daily to-dos to driving complex decision-making, URANUS bridges the gap between thought and action—quietly executing behind the scenes so you can rest assured everything is getting done.
 
